@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://pauljacobson.micro.blog/2021/06/16/nice-day-for.html",
+				
+				"content_html": "<p>Nice day for a walk. Enjoying my new Samsung Galaxy S21 phone&rsquo;s cameras too! 📷</p>\n\n<p><img src=\"uploads/2021/fc8b292172.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Nice day for a walk. Enjoying my new Samsung Galaxy S21 phone's cameras too! 📷 \n\n<img src=\"uploads/2021/fc8b292172.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-16T14:50:15+03:00",
+				"url": "https://pljcbsn.me/2021/06/16/nice-day-for.html"
+			},
+			{
 				"id": "http://pauljacobson.micro.blog/2021/03/11/i-have-grown.html",
 				
 				"content_html": "<p>I have grown to like having my daughter sitting at the same table as me for her remote lessons, except when she updates me every 5 seconds about how utterly painful her drawn-out Zoom classes are. I definitely feel for her though.</p>\n",
 				"content_text": "I have grown to like having my daughter sitting at the same table as me for her remote lessons, except when she updates me every 5 seconds about how utterly painful her drawn-out Zoom classes are. I definitely feel for her though.\n",
-				"date_published": "2021-03-11T12:39:25+02:00",
+				"date_published": "2021-03-11T13:39:25+03:00",
 				"url": "https://pljcbsn.me/2021/03/11/i-have-grown.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				
 				"content_html": "<p>I went for a long run this morning, and I&rsquo;m pretty proud of myself for completing this distance. It&rsquo;s the longest run I&rsquo;ve ever done.</p>\n\n<p><img src=\"uploads/2020/b3a355986f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I went for a long run this morning, and I'm pretty proud of myself for completing this distance. It's the longest run I've ever done.\n\n<img src=\"uploads/2020/b3a355986f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-12-22T09:20:39+02:00",
+				"date_published": "2020-12-22T10:20:39+03:00",
 				"url": "https://pljcbsn.me/2020/12/22/i-went-for.html"
 			},
 			{
@@ -27,7 +35,7 @@
 				
 				"content_html": "<p>I ran my <a href=\"https://wwwp5k.run\">#wwwp5k virtual race</a> this morning. It was a beautiful morning for a run. I can probably improve on my pace though. Good thing I can do it again later this December. 🏃🏻‍♂️</p>\n\n<p><img src=\"uploads/2020/8660b5e6ac.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I ran my [#wwwp5k virtual race](https://wwwp5k.run) this morning. It was a beautiful morning for a run. I can probably improve on my pace though. Good thing I can do it again later this December. 🏃🏻‍♂️\n\n<img src=\"uploads/2020/8660b5e6ac.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-12-03T10:17:59+02:00",
+				"date_published": "2020-12-03T11:17:59+03:00",
 				"url": "https://pljcbsn.me/2020/12/03/i-ran-my.html"
 			},
 			{
@@ -35,7 +43,7 @@
 				
 				"content_html": "<p>I&rsquo;m pretty sure there are news editors just waiting to publish a headline to the effect of &ldquo;Mr Trump, You&rsquo;re Fired!&rdquo;. 🤔 The irony will be amazing.</p>\n",
 				"content_text": "I'm pretty sure there are news editors just waiting to publish a headline to the effect of \"Mr Trump, You're Fired!\". 🤔 The irony will be amazing.\n",
-				"date_published": "2020-11-07T21:59:38+02:00",
+				"date_published": "2020-11-07T22:59:38+03:00",
 				"url": "https://pljcbsn.me/2020/11/07/im-pretty-sure.html"
 			},
 			{
@@ -43,7 +51,7 @@
 				
 				"content_html": "<p>“With the power of Yeet, I was able to teleport to the island …”</p>\n\n<p>Something I wasn&rsquo;t expecting to hear from my kids today. 😜</p>\n",
 				"content_text": "“With the power of Yeet, I was able to teleport to the island …”\n\nSomething I wasn't expecting to hear from my kids today. 😜\n",
-				"date_published": "2020-10-30T16:02:45+02:00",
+				"date_published": "2020-10-30T17:02:45+03:00",
 				"url": "https://pljcbsn.me/2020/10/30/with-the-power.html"
 			},
 			{
@@ -51,7 +59,7 @@
 				
 				"content_html": "<p>As challenging as this morning’s run was, it was a beautiful morning to go running. 🏃🏻‍♂️📷</p>\n\n<p><img src=\"uploads/2020/889098a59b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "As challenging as this morning’s run was, it was a beautiful morning to go running. 🏃🏻‍♂️📷\n\n<img src=\"uploads/2020/889098a59b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-10-27T14:18:56+02:00",
+				"date_published": "2020-10-27T15:18:56+03:00",
 				"url": "https://pljcbsn.me/2020/10/27/as-challenging-as.html"
 			},
 			{
@@ -59,7 +67,7 @@
 				
 				"content_html": "<p>I watched this music video with my daughter this evening, and it struck me that not a lot has changed in the ±30 years since this came out.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t1pqi8vjTLY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
 				"content_text": "I watched this music video with my daughter this evening, and it struck me that not a lot has changed in the ±30 years since this came out.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t1pqi8vjTLY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
-				"date_published": "2020-10-26T20:03:18+02:00",
+				"date_published": "2020-10-26T21:03:18+03:00",
 				"url": "https://pljcbsn.me/2020/10/26/i-watched-this.html"
 			},
 			{
@@ -67,7 +75,7 @@
 				
 				"content_html": "<p>It was a fresh morning for a walk in <a href=\"https://goo.gl/maps/iaKMKDvLT5HGHyjV8\">Modi&rsquo;in, Israel</a>. I went for a short walk before work, and enjoyed a cool start to the day. Just <a href=\"https://micro.welltempered.net/2020/09/24/a-day-in.html\">a day in the life</a> of many residents of my city. #adayinthelife</p>\n\n<p><img src=\"uploads/2020/25dd3591e6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "It was a fresh morning for a walk in [Modi'in, Israel](https://goo.gl/maps/iaKMKDvLT5HGHyjV8). I went for a short walk before work, and enjoyed a cool start to the day. Just [a day in the life](https://micro.welltempered.net/2020/09/24/a-day-in.html) of many residents of my city. #adayinthelife\n\n<img src=\"uploads/2020/25dd3591e6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-10-14T07:13:18+02:00",
+				"date_published": "2020-10-14T08:13:18+03:00",
 				"url": "https://pljcbsn.me/2020/10/14/it-was-a.html"
 			},
 			{
@@ -75,7 +83,7 @@
 				
 				"content_html": "<p>This is awesome! #virtualmeetings 🤣</p>\n\n<p><img src=\"uploads/2020/830919b049.jpg\" width=\"600\" height=\"439\" alt=\"\" /></p>\n",
 				"content_text": "This is awesome! #virtualmeetings 🤣\n\n<img src=\"uploads/2020/830919b049.jpg\" width=\"600\" height=\"439\" alt=\"\" />\n",
-				"date_published": "2020-10-13T17:14:51+02:00",
+				"date_published": "2020-10-13T18:14:51+03:00",
 				"url": "https://pljcbsn.me/2020/10/13/this-is-awesome.html"
 			},
 			{
@@ -83,7 +91,7 @@
 				
 				"content_html": "<p>My weekend has become all about geeking out with <a href=\"https://obsidian.md\">Obsidian</a>, <a href=\"https://roamresearch.com\">Roam Research</a> and methodologies for creating dynamically linked personal knowledgebases. 😍 📝</p>\n",
 				"content_text": "My weekend has become all about geeking out with [Obsidian](https://obsidian.md), [Roam Research](https://roamresearch.com) and methodologies for creating dynamically linked personal knowledgebases. 😍 📝 \n",
-				"date_published": "2020-10-10T14:11:45+02:00",
+				"date_published": "2020-10-10T15:11:45+03:00",
 				"url": "https://pljcbsn.me/2020/10/10/my-weekend-has.html"
 			},
 			{
@@ -91,7 +99,7 @@
 				
 				"content_html": "<p>TIL today: It&rsquo;s possible to add emoji to Micro.blog using Unicode for emoji (at least in Custom CSS). I was customising my blog&rsquo;s Custom CSS, and couldn&rsquo;t seem to add emoji directly. <a href=\"https://micro.blog/manton\">@manton</a> pointed me in the right direction, and something like this works: <code>content: &quot;U+1F4AC&quot;;</code></p>\n",
 				"content_text": "TIL today: It's possible to add emoji to Micro.blog using Unicode for emoji (at least in Custom CSS). I was customising my blog's Custom CSS, and couldn't seem to add emoji directly. [@manton](https://micro.blog/manton) pointed me in the right direction, and something like this works: `content: \"U+1F4AC\";`\n",
-				"date_published": "2020-10-07T07:08:03+02:00",
+				"date_published": "2020-10-07T08:08:03+03:00",
 				"url": "https://pljcbsn.me/2020/10/07/til-today-its.html"
 			},
 			{
@@ -99,7 +107,7 @@
 				
 				"content_html": "<p>I really like the Obsidian text editor. The new <a href=\"https://publish.obsidian.md/help/Add-on+services/Obsidian+Publish\">Obsidian Publish</a> is really interesting. As the team adds features like custom domain and CSS support, it could become a super lightweight static site publishing option too. 🤔</p>\n",
 				"content_text": "I really like the Obsidian text editor. The new [Obsidian Publish](https://publish.obsidian.md/help/Add-on+services/Obsidian+Publish) is really interesting. As the team adds features like custom domain and CSS support, it could become a super lightweight static site publishing option too. 🤔\n",
-				"date_published": "2020-10-06T12:29:05+02:00",
+				"date_published": "2020-10-06T13:29:05+03:00",
 				"url": "https://pljcbsn.me/2020/10/06/i-really-like.html"
 			},
 			{
@@ -107,7 +115,7 @@
 				
 				"content_html": "<p>I&rsquo;m curious how many people have switched to services like Micro.blog from WordPress as a result of the move towards the block editor as the primary editor in WordPress. 🤔</p>\n",
 				"content_text": "I'm curious how many people have switched to services like Micro.blog from WordPress as a result of the move towards the block editor as the primary editor in WordPress. 🤔 \n",
-				"date_published": "2020-10-05T15:46:34+02:00",
+				"date_published": "2020-10-05T16:46:34+03:00",
 				"url": "https://pljcbsn.me/2020/10/05/im-curious-how.html",
 				"tags": ["blogging","WordPress"]
 			},
@@ -116,7 +124,7 @@
 				
 				"content_html": "<p>Doing some quick errands on a sunny Autumn day. Nice to go for a quick walk. 🚶‍♂️</p>\n\n<p><img src=\"uploads/2020/f1ac035fa5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Doing some quick errands on a sunny Autumn day. Nice to go for a quick walk. 🚶‍♂️\n\n<img src=\"uploads/2020/f1ac035fa5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-10-05T10:48:04+02:00",
+				"date_published": "2020-10-05T11:48:04+03:00",
 				"url": "https://pljcbsn.me/2020/10/05/doing-some-quick.html"
 			},
 			{
@@ -124,7 +132,7 @@
 				
 				"content_html": "<p>This is a wonderful way to give insight into our heroes&rsquo; fight against the pandemic to save lives: <a href=\"https://www.timesofisrael.com/faces-from-the-frontlines-photographer-at-hospital-captures-covid-19-angels/\">Faces from the frontlines: Photographer at hospital captures COVID-19 &lsquo;angels&rsquo;</a>. 📷</p>\n",
 				"content_text": "This is a wonderful way to give insight into our heroes' fight against the pandemic to save lives: [Faces from the frontlines: Photographer at hospital captures COVID-19 'angels'](https://www.timesofisrael.com/faces-from-the-frontlines-photographer-at-hospital-captures-covid-19-angels/). 📷\n",
-				"date_published": "2020-10-05T07:58:56+02:00",
+				"date_published": "2020-10-05T08:58:56+03:00",
 				"url": "https://pljcbsn.me/2020/10/05/this-is-a.html"
 			},
 			{
@@ -132,7 +140,7 @@
 				
 				"content_html": "<p>My wife&rsquo;s <a href=\"https://gnatj.com/2020/10/03/peppermint-crisp-pudding/\">Peppermint Crisp Pudding</a> is amazing. It&rsquo;s very rich, not at all Diabetic friendly (but, hey, it&rsquo;s once a year 😬). Definitely a dessert highlight of our year. 🍽</p>\n\n<p><img src=\"uploads/2020/c517f1a700.jpg\" width=\"446\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "My wife's [Peppermint Crisp Pudding](https://gnatj.com/2020/10/03/peppermint-crisp-pudding/) is amazing. It's very rich, not at all Diabetic friendly (but, hey, it's once a year 😬). Definitely a dessert highlight of our year. 🍽\n\n<img src=\"uploads/2020/c517f1a700.jpg\" width=\"446\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-10-04T10:21:17+02:00",
+				"date_published": "2020-10-04T11:21:17+03:00",
 				"url": "https://pljcbsn.me/2020/10/04/my-wifes-peppermint.html"
 			},
 			{
@@ -140,7 +148,7 @@
 				
 				"content_html": "<p>I wonder how much of <a href=\"https://www.timesofisrael.com/amid-record-infection-numbers-netanyahu-warns-of-tighter-lockdown/\">the frightening COVID-19 infection rate in Israel</a> is exacerbated by the public&rsquo;s distrust of our political leadership, and lack of faith in their efforts to bring the infection rate down. 🤔</p>\n",
 				"content_text": "I wonder how much of [the frightening COVID-19 infection rate in Israel](https://www.timesofisrael.com/amid-record-infection-numbers-netanyahu-warns-of-tighter-lockdown/) is exacerbated by the public's distrust of our political leadership, and lack of faith in their efforts to bring the infection rate down. 🤔 \n",
-				"date_published": "2020-10-02T11:16:11+02:00",
+				"date_published": "2020-10-02T12:16:11+03:00",
 				"url": "https://pljcbsn.me/2020/10/02/i-wonder-how.html"
 			},
 			{
@@ -148,7 +156,7 @@
 				
 				"content_html": "<p>We watched <a href=\"https://www.youtube.com/watch?v=1d0Zf9sXlHk\">Enola Holmes on Netflix</a> over the weekend, and really enjoyed it. Our daughter even put her phone down for most of the movie to watch!</p>\n",
 				"content_text": "We watched [Enola Holmes on Netflix](https://www.youtube.com/watch?v=1d0Zf9sXlHk) over the weekend, and really enjoyed it. Our daughter even put her phone down for most of the movie to watch!\n",
-				"date_published": "2020-10-01T09:37:21+02:00",
+				"date_published": "2020-10-01T10:37:21+03:00",
 				"url": "https://pljcbsn.me/2020/10/01/we-watched-enola.html"
 			},
 			{
@@ -156,7 +164,7 @@
 				
 				"content_html": "<p>💡 If you play D&amp;D, or another TTRPG, and you&rsquo;re looking for inspiration for adventure locations, there are <a href=\"https://www.reddit.com/r/EarthPorn/\">a number</a> of <a href=\"https://www.reddit.com/r/FantasyMaps/\">terrific resources</a>. One of my favourites is <a href=\"https://earthview.withgoogle.com/\">Earth View from Google</a> that has amazing satellite imagery from our incredible planet.</p>\n",
 				"content_text": "💡 If you play D&D, or another TTRPG, and you're looking for inspiration for adventure locations, there are [a number](https://www.reddit.com/r/EarthPorn/) of [terrific resources](https://www.reddit.com/r/FantasyMaps/). One of my favourites is [Earth View from Google](https://earthview.withgoogle.com/) that has amazing satellite imagery from our incredible planet.\n",
-				"date_published": "2020-10-01T07:22:27+02:00",
+				"date_published": "2020-10-01T08:22:27+03:00",
 				"url": "https://pljcbsn.me/2020/10/01/if-you-play.html"
 			},
 			{
@@ -164,7 +172,7 @@
 				"title": "Revisiting Micro.blog (again)",
 				"content_html": "<p>At the risk of making more silly, grand declarations about the utility of Internet services (which <a href=\"https://pauljacobson.me/2018/12/28/more-thoughts-about-micro-blog-as-an-indie-social-network/\">I&rsquo;m probably prone to do</a>), I&rsquo;ve started taking another look at <a href=\"https://micro.blog/\">Micro.blog</a>. Something about <a href=\"https://micro.blog/Manton\">@Manton</a>&rsquo;s <a href=\"https://www.manton.org/2020/09/29/whats-new-in.html\">announcement about the v2 update</a> caught my attention. The update is very nice, and my recent posts were really nicely cross-posted to Twitter.</p>\n\n<p>That&rsquo;s probably a bit of an arbitrary statement, although given how easy it is to publish a quick post to Micro.blog from my phone, I really like the idea of using my MB blog for quick status updates that share nicely to Twitter (FWIW).</p>\n\n<p>I&rsquo;m not ready to give up my WordPress sites (that&rsquo;s not really the end goal here). At the same time, it&rsquo;s easier to send out a quick update with Micro.blog, as much as the WordPress.com mobile app has grown over the years. One set of features in the v2.0 update that I really like are the <a href=\"https://news.micro.blog/2020/09/22/bookmarks-and-highlights.html\">Bookmarks and highlights</a> features. The highlights feature, in particular, reminds me of how Instapaper handled/handles sharing highlights.</p>\n\n<p>Anyway, just a quick, non-Grand_Declarations, FYI.</p>\n",
 				"content_text": "At the risk of making more silly, grand declarations about the utility of Internet services (which [I'm probably prone to do](https://pauljacobson.me/2018/12/28/more-thoughts-about-micro-blog-as-an-indie-social-network/)), I've started taking another look at [Micro.blog](https://micro.blog/). Something about [@Manton](https://micro.blog/Manton)'s [announcement about the v2 update](https://www.manton.org/2020/09/29/whats-new-in.html) caught my attention. The update is very nice, and my recent posts were really nicely cross-posted to Twitter.\n\nThat's probably a bit of an arbitrary statement, although given how easy it is to publish a quick post to Micro.blog from my phone, I really like the idea of using my MB blog for quick status updates that share nicely to Twitter (FWIW).\n\nI'm not ready to give up my WordPress sites (that's not really the end goal here). At the same time, it's easier to send out a quick update with Micro.blog, as much as the WordPress.com mobile app has grown over the years. One set of features in the v2.0 update that I really like are the [Bookmarks and highlights](https://news.micro.blog/2020/09/22/bookmarks-and-highlights.html) features. The highlights feature, in particular, reminds me of how Instapaper handled/handles sharing highlights.\n\nAnyway, just a quick, non-Grand_Declarations, FYI.\n",
-				"date_published": "2020-09-30T17:27:00+02:00",
+				"date_published": "2020-09-30T18:27:00+03:00",
 				"url": "https://pljcbsn.me/2020/09/30/revisiting-microblog-again.html"
 			},
 			{
@@ -172,7 +180,7 @@
 				
 				"content_html": "<p>Someone may have answered this question before, but here goes: Has anyone worked out how to import a Twitter archive into Micro.blog? This would be a pretty interesting thing to do (after disabling automatic posting to Twitter, of course). 🤔</p>\n",
 				"content_text": "Someone may have answered this question before, but here goes: Has anyone worked out how to import a Twitter archive into Micro.blog? This would be a pretty interesting thing to do (after disabling automatic posting to Twitter, of course). 🤔\n",
-				"date_published": "2020-09-30T08:47:03+02:00",
+				"date_published": "2020-09-30T09:47:03+03:00",
 				"url": "https://pljcbsn.me/2020/09/30/someone-may-have.html"
 			},
 			{
@@ -180,7 +188,7 @@
 				
 				"content_html": "<p>My wife makes some pretty awesome cinnamon buns &hellip;</p>\n\n<p>These went really quickly. 😊</p>\n\n<p><img src=\"uploads/2020/f0a0fb9980.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "My wife makes some pretty awesome cinnamon buns ...\n\nThese went really quickly. 😊\n\n<img src=\"uploads/2020/f0a0fb9980.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-09-29T21:12:48+02:00",
+				"date_published": "2020-09-29T22:12:48+03:00",
 				"url": "https://pljcbsn.me/2020/09/29/my-wife-makes.html"
 			},
 			{
@@ -188,7 +196,7 @@
 				
 				"content_html": "<p>I have a few talents. The ability to have a satisfying nap is not one of them. 😳</p>\n",
 				"content_text": "I have a few talents. The ability to have a satisfying nap is not one of them. 😳\n",
-				"date_published": "2019-02-23T15:12:57+02:00",
+				"date_published": "2019-02-23T16:12:57+03:00",
 				"url": "https://pljcbsn.me/2019/02/23/i-have-a.html"
 			},
 			{
@@ -196,7 +204,7 @@
 				
 				"content_html": "<p>Ever find yourself publishing something to your blog because you miss blogging, and have just been too busy lately to share much? I&rsquo;m right there at the moment. 🤔</p>\n",
 				"content_text": "Ever find yourself publishing something to your blog because you miss blogging, and have just been too busy lately to share much? I'm right there at the moment. 🤔\n",
-				"date_published": "2019-02-04T15:27:19+02:00",
+				"date_published": "2019-02-04T16:27:19+03:00",
 				"url": "https://pljcbsn.me/2019/02/04/ever-find-yourself.html"
 			},
 			{
@@ -204,7 +212,7 @@
 				
 				"content_html": "<p>It&rsquo;s <em>such</em> a relief when I manage to send a webmention from my blog as a reply to a comment. This stuff is probably so much easier to do than I think it is, and I&rsquo;m missing something pretty obvious.</p>\n",
 				"content_text": "It's _such_ a relief when I manage to send a webmention from my blog as a reply to a comment. This stuff is probably so much easier to do than I think it is, and I'm missing something pretty obvious.\n",
-				"date_published": "2019-01-31T20:25:11+02:00",
+				"date_published": "2019-01-31T21:25:11+03:00",
 				"url": "https://pljcbsn.me/2019/01/31/its-such-a.html"
 			},
 			{
@@ -212,7 +220,7 @@
 				
 				"content_html": "<p>I feel like I&rsquo;m adding way too many items to my Pocket list to read. So many fascinating things to read, not enough time to get through it all.</p>\n",
 				"content_text": "I feel like I'm adding way too many items to my Pocket list to read. So many fascinating things to read, not enough time to get through it all.\n",
-				"date_published": "2019-01-28T15:03:54+02:00",
+				"date_published": "2019-01-28T16:03:54+03:00",
 				"url": "https://pljcbsn.me/2019/01/28/i-feel-like.html"
 			},
 			{
@@ -220,7 +228,7 @@
 				
 				"content_html": "<p>I&rsquo;ve discovered just how cool the Web is for recipes now that my wife is away, and I&rsquo;m cooking for me and our kids for each meal &hellip;</p>\n",
 				"content_text": "I've discovered just how cool the Web is for recipes now that my wife is away, and I'm cooking for me and our kids for each meal ... \n",
-				"date_published": "2019-01-21T20:09:38+02:00",
+				"date_published": "2019-01-21T21:09:38+03:00",
 				"url": "https://pljcbsn.me/2019/01/21/ive-discovered-just.html"
 			},
 			{
@@ -228,7 +236,7 @@
 				
 				"content_html": "<p>Wow, the most recent Dialog update is really good! This app has come a long way in a pretty short time period!</p>\n",
 				"content_text": "Wow, the most recent Dialog update is really good! This app has come a long way in a pretty short time period!\n",
-				"date_published": "2019-01-14T20:33:40+02:00",
+				"date_published": "2019-01-14T21:33:40+03:00",
 				"url": "https://pljcbsn.me/2019/01/14/wow-the-most.html"
 			},
 			{
@@ -236,7 +244,7 @@
 				
 				"content_html": "<p>I like the Dialog design update! Looking forward to dark mode&rsquo;s return.</p>\n",
 				"content_text": "I like the Dialog design update! Looking forward to dark mode's return.\n",
-				"date_published": "2019-01-02T06:37:03+02:00",
+				"date_published": "2019-01-02T07:37:03+03:00",
 				"url": "https://pljcbsn.me/2019/01/02/i-like-the.html"
 			},
 			{
@@ -244,7 +252,7 @@
 				
 				"content_html": "<p>With all the emphasis on iOS apps for Micro.blog, are there good Android apps that enable us to post from our devices? The Web UI is a little fiddly.</p>\n",
 				"content_text": "With all the emphasis on iOS apps for Micro.blog, are there good Android apps that enable us to post from our devices? The Web UI is a little fiddly.\n",
-				"date_published": "2018-12-12T09:57:53+02:00",
+				"date_published": "2018-12-12T10:57:53+03:00",
 				"url": "https://pljcbsn.me/2018/12/12/with-all-the.html"
 			},
 			{
@@ -252,7 +260,7 @@
 				
 				"content_html": "<p>So &hellip; WordPress 5.0 releases tomorrow. Slightly early birthday present? 😊</p>\n",
 				"content_text": "So ... WordPress 5.0 releases tomorrow. Slightly early birthday present? 😊\n",
-				"date_published": "2018-12-05T17:27:23+02:00",
+				"date_published": "2018-12-05T18:27:23+03:00",
 				"url": "https://pljcbsn.me/2018/12/05/so-wordpress-releases.html"
 			},
 			{
@@ -260,7 +268,7 @@
 				
 				"content_html": "<p>I opened my blog this morning, and discovered a <code>500 Internal Server error</code>. Turns out the IndieWeb plugin (v3.3.12) crashed my site. 😱 It looks like <a href=\"https://github.com/indieweb/wordpress-indieweb/issues/127\">there&rsquo;s a fix coming</a> but, for now, my site feels pretty disconnected.</p>\n",
 				"content_text": "I opened my blog this morning, and discovered a `500 Internal Server error`. Turns out the IndieWeb plugin (v3.3.12) crashed my site. 😱 It looks like [there's a fix coming](https://github.com/indieweb/wordpress-indieweb/issues/127) but, for now, my site feels pretty disconnected.\n",
-				"date_published": "2018-12-04T08:23:11+02:00",
+				"date_published": "2018-12-04T09:23:11+03:00",
 				"url": "https://pljcbsn.me/2018/12/04/i-opened-my.html"
 			},
 			{
@@ -268,7 +276,7 @@
 				
 				"content_html": "<p>Just messing around with <a href=\"https://www.red-sweater.com/marsedit/\">MarsEdit</a> integration. It&rsquo;s such an awesome app that I just don&rsquo;t appreciate nearly enough.</p>\n\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://pauljacobson.micro.blog/uploads/2018/ddf6b4014a.jpg\" alt=\"Mars globe valles marineris enhanced\" title=\"mars-globe-valles-marineris-enhanced.jpg\" border=\"0\" width=\"600\" height=\"600\" /></p>\n",
 				"content_text": "Just messing around with <a href=\"https://www.red-sweater.com/marsedit/\">MarsEdit</a> integration. It's such an awesome app that I just don't appreciate nearly enough.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://pauljacobson.micro.blog/uploads/2018/ddf6b4014a.jpg\" alt=\"Mars globe valles marineris enhanced\" title=\"mars-globe-valles-marineris-enhanced.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n",
-				"date_published": "2018-09-08T09:49:53+02:00",
+				"date_published": "2018-09-08T10:49:53+03:00",
 				"url": "https://pljcbsn.me/2018/09/08/just-messing-around.html"
 			},
 			{
@@ -276,7 +284,7 @@
 				
 				"content_html": "<p>Potentially silly question:</p>\n\n<p>Given that my primary hub on the Web is my WordPress blog, where would a Micro.blog fit in, and be a meaningful adjunct to my main site?</p>\n\n<p>Or is it better to consolidate, and figure out how to better use my main blog for shorter updates instead?</p>\n",
 				"content_text": "Potentially silly question:\n\nGiven that my primary hub on the Web is my WordPress blog, where would a Micro.blog fit in, and be a meaningful adjunct to my main site?\n\nOr is it better to consolidate, and figure out how to better use my main blog for shorter updates instead?\n",
-				"date_published": "2018-09-04T19:56:06+02:00",
+				"date_published": "2018-09-04T20:56:06+03:00",
 				"url": "https://pljcbsn.me/2018/09/04/potentially-silly-question.html"
 			}
 	]
